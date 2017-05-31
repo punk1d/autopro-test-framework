@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="User Imports Wufoo Contacts" timestamp="2017-05-18T13:39:05" hostname="localhost" time="10.413" errors="0" tests="9" skipped="8" failures="0">
+  <testcase classname="User Imports Wufoo Contacts" name="Opens browser and loads benchmark prod site" time="10.405">
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts" name="Logs in using valid credentials" time="0.001"><skipped />
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts" name="Opens Integrations Landing page" time="0.001"><skipped />
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts" name="Opens Integrations page" time="0"><skipped />
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts" name="Opens Wufoo Connection Page" time="0.001"><skipped />
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts" name="Connects to Wufoo" time="0"><skipped />
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts" name="Configures Wufoo Import - Empty form, all contacts, new list" time="0.001"><skipped />
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts" name="Completes field mapping and see confirmation page" time="0.001"><skipped />
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts" name="Goes to My Lists Page and validates new list is created" time="0.001"><skipped />
+  </testcase>
+ </testsuite>
+</testsuites>

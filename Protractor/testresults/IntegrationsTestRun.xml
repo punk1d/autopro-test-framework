@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+ <testsuite name="User Imports Wufoo Contacts to a New List" timestamp="2017-05-29T23:10:10" hostname="localhost" time="49.63" errors="0" tests="10" skipped="0" failures="0">
+  <testcase classname="User Imports Wufoo Contacts to a New List" name="Opens browser and loads benchmark prod site" time="14.118">
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts to a New List" name="Logs in using valid credentials" time="1.326">
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts to a New List" name="Opens Integrations Landing page" time="8.492">
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts to a New List" name="Opens Integrations page" time="0.21">
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts to a New List" name="Opens Wufoo Connection Page" time="4.454">
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts to a New List" name="Connects to Wufoo" time="5.416">
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts to a New List" name="Configures Wufoo Import - Empty form, all contacts, new list" time="5.432">
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts to a New List" name="Completes field mapping and see confirmation page" time="3.226">
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts to a New List" name="Goes to My Lists Page" time="6.306">
+  </testcase>
+  <testcase classname="User Imports Wufoo Contacts to a New List" name="Checks that the new list can ve visible in Contact List Dashboard page" time="0.648">
+  </testcase>
+ </testsuite>
+</testsuites>
